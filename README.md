@@ -29,16 +29,8 @@ It features **confetti animation, glowing stars, waving flag, and personalizatio
 
 ## 💻 Technologies Used
 ✅ HTML5  
-✅ CSS3 (Bootstrap 5 + custom styles)  
-✅ Vanilla JavaScript  
-
----
-
-## 📱 Responsive Design
-Built using the **Bootstrap 5 grid system** for perfect adaptability:
-- Mobile-first approach  
-- Buttons stack neatly on small screens  
-- Flag and animations resize automatically  
+✅ CSS3   
+✅ JavaScript  
 
 ---
 
